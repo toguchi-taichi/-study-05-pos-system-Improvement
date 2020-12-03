@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>eelテスト</title>
+        <link rel="stylesheet" href="./style.css">
+    </head>
+    <body>
+        <h2>eelテスト</h2>
+        <div class="form_area">
+            <label>csvファイル<input type="text" id="csv_save"></label>></br>
+            <label>検索ワード<input type="text" id="kensaku_word"></label>>
+            <input type="button" id="search" value="検索">
+        </div>>
+        <div class="text_area">
+            <textarea class="text_area" id="return_text" rows="40" cols="40"></textarea>
+        </div>>
+        
+        <script type="text/javascript" src="./eel.js"></script>
+        <script>
+            search.addEventListener('click', function() {
+                if(kensaku_word.value){
+                    async function run() {
+                        search_results = await eel.kimetsu_search(kensaku_word.value, csv_save.value)();
+                        return_text.value += search_results + "\n"
+                    }
+                    run();
+                }else{
+                    alert('検索ワードを入力してください');
+                }
+            })
+        </script>
+    </body>
+</html>

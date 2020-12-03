@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <title>商品購入システム</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="../css/style.css">
+    </head>
+    <body>
+        <h2>商品購入システム</h2>
+        <div class="form-group row">
+            <input type="text" class="form-control" id="item_code" placeholder="商品コードの入力 001~003">
+            <input type="button" class="btn btn-primary .m-1" id="product_information" value="商品情報表示">
+        </div>
+        <textarea id="return_product_information" rows="10" cols="40"></textarea>
+        <div class="form-group row">
+           <input type="text" class="form-control" id="quantity_input" placeholder="購入個数入力欄">
+            <input type="button" class="btn btn-primary .m-1" id="total_fee" value="合計金額表示">
+        </div>
+        <textarea id="return_total_fee" rows="10" cols="40"></textarea>
+        <div class="form-group row">
+            <input type="text" class="form-control" id="amount_custody" placeholder="お支払い金額入力">
+            <input type="button" class="btn btn-primary .m-1" id="change" value="お釣り">
+        </div>
+        <textarea id="return_change" rows="10" cols="40"></textarea>
+        
+        
+        <script type="text/javascript" src="./eel.js"></script>
+        <script>
+            product_information.addEventListener('click', function() {
+                if(item_code.value){
+                    async function run() {
+                        detail = await eel.return_product_detail(item_code.value)();
+                        return_product_information.value += detail + "\n"
+                    }
+                    run();
+                }else{
+                    alert('検索ワードを入力してください');
+                }
+            })
+
+            total_fee.addEventListener('click', function(){
+                async function total_money(){
+                    total = await eel.return_total_price(item_code.value, quantity_input.value)();
+                    return_total_fee.value += total + "\n"
+                }
+                total_money();
+            })
+
+            change.addEventListener('click', function(){
+                async function change_return(){
+                    a = await eel.return_change_money(amount_custody.value)();
+                    return_change.value += a + "\n"
+                }
+                change_return();
+            })
+
+
+            
+            
+
+
+        </script>
+    </body>
+</html>

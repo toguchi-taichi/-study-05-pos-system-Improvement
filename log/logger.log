@@ -1,0 +1,337 @@
+INFO:root:マスタをオーダーに登録しました
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-01 17:30:57] "GET /index.html HTTP/1.1" 200 2614 0.002962
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-01 17:30:57] "GET /style.css HTTP/1.1" 404 875 0.006462
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-01 17:30:57] "GET /eel.js HTTP/1.1" 200 6082 0.001084
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-01 17:30:57] "GET /favicon.ico HTTP/1.1" 404 877 0.002303
+INFO:root:マスタをオーダーに登録しました
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-01 17:46:38] "GET /index.html HTTP/1.1" 200 2614 0.003317
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-01 17:46:38] "GET /style.css HTTP/1.1" 404 875 0.006179
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-01 17:46:38] "GET /eel.js HTTP/1.1" 200 6082 0.002049
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-01 17:46:39] "GET /favicon.ico HTTP/1.1" 404 877 0.000773
+INFO:root:マスタをオーダーに登録しました
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-01 17:48:47] "GET /index.html HTTP/1.1" 200 2614 0.003515
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-01 17:48:47] "GET /style.css HTTP/1.1" 404 875 0.006048
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-01 17:48:47] "GET /eel.js HTTP/1.1" 200 6082 0.000591
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-01 17:48:47] "GET /favicon.ico HTTP/1.1" 404 877 0.001296
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:05:28] "GET /index.html HTTP/1.1" 200 2614 0.002190
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:05:28] "GET /style.css HTTP/1.1" 404 875 0.006711
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:05:28] "GET /eel.js HTTP/1.1" 200 6082 0.000660
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:05:28] "GET /favicon.ico HTTP/1.1" 404 877 0.000505
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:14:05] "GET /index.html HTTP/1.1" 200 2614 0.002847
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:14:05] "GET /style.css HTTP/1.1" 404 875 0.010096
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:14:05] "GET /eel.js HTTP/1.1" 200 6082 0.000434
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:14:05] "GET /favicon.ico HTTP/1.1" 404 877 0.001223
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:21:07] "GET /index.html HTTP/1.1" 200 2517 0.002290
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:21:07] "GET /style.css HTTP/1.1" 404 875 0.008314
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:21:07] "GET /eel.js HTTP/1.1" 200 6082 0.000584
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:21:08] "GET /favicon.ico HTTP/1.1" 404 877 0.000815
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:27:05] "GET /index.html HTTP/1.1" 200 2517 0.002305
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:27:05] "GET /style.css HTTP/1.1" 404 875 0.006051
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:27:05] "GET /eel.js HTTP/1.1" 200 6082 0.000522
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:27:05] "GET /favicon.ico HTTP/1.1" 404 877 0.001466
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:28:51] "GET /index.html HTTP/1.1" 200 2517 0.002726
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:28:51] "GET /style.css HTTP/1.1" 404 875 0.008395
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:28:51] "GET /eel.js HTTP/1.1" 200 6082 0.000561
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:28:52] "GET /favicon.ico HTTP/1.1" 404 877 0.001715
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:33:55] "GET /index.html HTTP/1.1" 200 2517 0.003563
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:33:55] "GET /style.css HTTP/1.1" 200 232 0.000899
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:33:55] "GET /eel.js HTTP/1.1" 200 6082 0.000563
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:33:56] "GET /favicon.ico HTTP/1.1" 404 877 0.006710
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:34:44] "GET /index.html HTTP/1.1" 200 2508 0.002591
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:34:44] "GET /style.css HTTP/1.1" 200 234 0.002044
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:34:44] "GET /eel.js HTTP/1.1" 200 6082 0.000839
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:34:45] "GET /favicon.ico HTTP/1.1" 404 877 0.007015
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:35:19] "GET /index.html HTTP/1.1" 200 2508 0.002386
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:35:19] "GET /style.css HTTP/1.1" 200 234 0.000689
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:35:19] "GET /eel.js HTTP/1.1" 200 6082 0.000630
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:35:19] "GET /favicon.ico HTTP/1.1" 404 877 0.016451
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:41:04] "GET /index.html HTTP/1.1" 200 2529 0.001996
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:41:04] "GET /style.css HTTP/1.1" 200 234 0.000691
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:41:04] "GET /eel.js HTTP/1.1" 200 6082 0.000556
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:41:05] "GET /favicon.ico HTTP/1.1" 404 877 0.006625
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:45:09] "GET /index.html HTTP/1.1" 200 2525 0.007170
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:45:09] "GET /style.css HTTP/1.1" 200 234 0.000895
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:45:09] "GET /eel.js HTTP/1.1" 200 6082 0.000537
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:45:09] "GET /favicon.ico HTTP/1.1" 404 877 0.008087
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:49:43] "GET /index.html HTTP/1.1" 200 2525 0.002228
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:49:43] "GET /style.css HTTP/1.1" 200 234 0.001634
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:49:43] "GET /eel.js HTTP/1.1" 200 6082 0.000520
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 20:49:44] "GET /favicon.ico HTTP/1.1" 404 877 0.013242
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:00:07] "GET /index.html HTTP/1.1" 200 2851 0.002382
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:00:07] "GET /style.css HTTP/1.1" 200 234 0.000907
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:00:07] "GET /eel.js HTTP/1.1" 200 6082 0.000472
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:00:07] "GET /favicon.ico HTTP/1.1" 404 877 0.007824
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:03:10] "GET /index.html HTTP/1.1" 200 2872 0.002505
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:03:10] "GET /style.css HTTP/1.1" 200 268 0.000741
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:03:10] "GET /eel.js HTTP/1.1" 200 6082 0.000563
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:03:10] "GET /favicon.ico HTTP/1.1" 404 877 0.014666
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:03:54] "GET /index.html HTTP/1.1" 200 2890 0.002892
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:03:55] "GET /style.css HTTP/1.1" 200 268 0.000863
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:03:55] "GET /eel.js HTTP/1.1" 200 6082 0.000835
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:03:55] "GET /favicon.ico HTTP/1.1" 404 877 0.012169
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:08:55] "GET /index.html HTTP/1.1" 200 2905 0.005390
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:08:55] "GET /style.css HTTP/1.1" 200 268 0.001184
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:08:55] "GET /eel.js HTTP/1.1" 200 6082 0.000542
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:08:56] "GET /favicon.ico HTTP/1.1" 404 877 0.012571
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:11:36] "GET /index.html HTTP/1.1" 200 2934 0.002863
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:11:36] "GET /style.css HTTP/1.1" 200 268 0.002025
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:11:36] "GET /eel.js HTTP/1.1" 200 6082 0.000565
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:11:37] "GET /favicon.ico HTTP/1.1" 404 877 0.017435
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:12:23] "GET /index.html HTTP/1.1" 200 2957 0.003431
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:12:23] "GET /style.css HTTP/1.1" 200 268 0.000788
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:12:23] "GET /eel.js HTTP/1.1" 200 6082 0.000705
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:12:23] "GET /favicon.ico HTTP/1.1" 404 877 0.009174
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:13:30] "GET /index.html HTTP/1.1" 200 2949 0.001859
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:13:30] "GET /style.css HTTP/1.1" 200 268 0.001744
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:13:30] "GET /eel.js HTTP/1.1" 200 6082 0.000546
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:13:31] "GET /favicon.ico HTTP/1.1" 404 877 0.007711
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:14:09] "GET /index.html HTTP/1.1" 200 2949 0.002495
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:14:09] "GET /style.css HTTP/1.1" 200 268 0.000813
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:14:09] "GET /eel.js HTTP/1.1" 200 6082 0.001069
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:14:09] "GET /favicon.ico HTTP/1.1" 404 877 0.013787
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:14:57] "GET /index.html HTTP/1.1" 200 2943 0.002147
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:14:57] "GET /style.css HTTP/1.1" 200 268 0.001150
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:14:57] "GET /eel.js HTTP/1.1" 200 6082 0.000574
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:14:57] "GET /favicon.ico HTTP/1.1" 404 877 0.009640
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:16:53] "GET /index.html HTTP/1.1" 200 2925 0.002186
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:16:53] "GET /style.css HTTP/1.1" 200 268 0.000957
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:16:53] "GET /eel.js HTTP/1.1" 200 6082 0.000726
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:16:54] "GET /favicon.ico HTTP/1.1" 404 877 0.012717
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:19:11] "GET /index.html HTTP/1.1" 200 2925 0.002155
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:19:11] "GET /style.css HTTP/1.1" 200 379 0.001303
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:19:11] "GET /eel.js HTTP/1.1" 200 6082 0.000518
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:19:12] "GET /favicon.ico HTTP/1.1" 404 877 0.012566
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:21:31] "GET /index.html HTTP/1.1" 200 2925 0.003241
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:21:31] "GET /style.css HTTP/1.1" 200 380 0.000708
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:21:31] "GET /eel.js HTTP/1.1" 200 6082 0.000587
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:21:31] "GET /favicon.ico HTTP/1.1" 404 877 0.010434
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:22:11] "GET /index.html HTTP/1.1" 200 2925 0.002223
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:22:11] "GET /style.css HTTP/1.1" 200 381 0.001436
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:22:11] "GET /eel.js HTTP/1.1" 200 6082 0.000642
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:22:12] "GET /favicon.ico HTTP/1.1" 404 877 0.013396
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:22:56] "GET /index.html HTTP/1.1" 200 2925 0.002289
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:22:56] "GET /style.css HTTP/1.1" 200 399 0.001499
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:22:56] "GET /eel.js HTTP/1.1" 200 6082 0.001185
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:22:57] "GET /favicon.ico HTTP/1.1" 404 877 0.011370
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:25:03] "GET /index.html HTTP/1.1" 200 2925 0.002341
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:25:03] "GET /style.css HTTP/1.1" 200 429 0.000976
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:25:03] "GET /eel.js HTTP/1.1" 200 6082 0.000575
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:25:04] "GET /favicon.ico HTTP/1.1" 404 877 0.007080
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:26:09] "GET /index.html HTTP/1.1" 200 2925 0.002425
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:26:09] "GET /style.css HTTP/1.1" 200 431 0.000739
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:26:09] "GET /eel.js HTTP/1.1" 200 6082 0.000598
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:26:09] "GET /favicon.ico HTTP/1.1" 404 877 0.006718
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:28:57] "GET /index.html HTTP/1.1" 200 3012 0.002178
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:28:57] "GET /style.css HTTP/1.1" 200 436 0.001667
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:28:57] "GET /eel.js HTTP/1.1" 200 6082 0.001200
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:28:57] "GET /favicon.ico HTTP/1.1" 404 877 0.026741
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:31:41] "GET /index.html HTTP/1.1" 200 3012 0.002755
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:31:41] "GET /style.css HTTP/1.1" 200 496 0.000816
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:31:41] "GET /eel.js HTTP/1.1" 200 6082 0.000556
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:31:42] "GET /favicon.ico HTTP/1.1" 404 877 0.005736
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:33:58] "GET /index.html HTTP/1.1" 200 2997 0.001988
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:33:58] "GET /style.css HTTP/1.1" 200 433 0.000732
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:33:58] "GET /eel.js HTTP/1.1" 200 6082 0.000515
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:33:58] "GET /favicon.ico HTTP/1.1" 404 877 0.009858
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:36:51] "GET /index.html HTTP/1.1" 200 3012 0.002788
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:36:51] "GET /style.css HTTP/1.1" 200 433 0.000718
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:36:51] "GET /eel.js HTTP/1.1" 200 6082 0.000807
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-02 21:36:52] "GET /favicon.ico HTTP/1.1" 404 877 0.012660
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 12:54:15] "GET /index.html HTTP/1.1" 200 3012 0.002345
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 12:54:15] "GET /style.css HTTP/1.1" 200 433 0.000848
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 12:54:15] "GET /eel.js HTTP/1.1" 200 6082 0.000560
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 12:54:16] "GET /favicon.ico HTTP/1.1" 404 877 0.024823
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 12:57:51] "GET /index.html HTTP/1.1" 200 3012 0.001995
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 12:57:51] "GET /style.css HTTP/1.1" 200 447 0.000937
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 12:57:51] "GET /eel.js HTTP/1.1" 200 6082 0.000605
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 12:57:52] "GET /favicon.ico HTTP/1.1" 404 877 0.027139
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 12:58:57] "GET /index.html HTTP/1.1" 200 3012 0.004979
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 12:58:57] "GET /style.css HTTP/1.1" 200 449 0.002053
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 12:58:57] "GET /eel.js HTTP/1.1" 200 6082 0.000683
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 12:58:57] "GET /favicon.ico HTTP/1.1" 404 877 0.009063
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:01:02] "GET /index.html HTTP/1.1" 200 3012 0.003017
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:01:02] "GET /style.css HTTP/1.1" 200 459 0.000999
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:01:02] "GET /eel.js HTTP/1.1" 200 6082 0.000922
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:01:03] "GET /favicon.ico HTTP/1.1" 404 877 0.008515
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:02:15] "GET /index.html HTTP/1.1" 200 3012 0.002848
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:02:15] "GET /style.css HTTP/1.1" 200 406 0.000603
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:02:15] "GET /eel.js HTTP/1.1" 200 6082 0.000470
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:02:16] "GET /favicon.ico HTTP/1.1" 404 877 0.020900
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:04:29] "GET /index.html HTTP/1.1" 200 3012 0.002327
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:04:29] "GET /style.css HTTP/1.1" 200 447 0.001745
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:04:29] "GET /eel.js HTTP/1.1" 200 6082 0.000842
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:04:30] "GET /favicon.ico HTTP/1.1" 404 877 0.017983
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:05:32] "GET /index.html HTTP/1.1" 200 3012 0.007752
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:05:32] "GET /style.css HTTP/1.1" 200 428 0.001350
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:05:32] "GET /eel.js HTTP/1.1" 200 6082 0.000633
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:05:33] "GET /favicon.ico HTTP/1.1" 404 877 0.014319
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:06:14] "GET /index.html HTTP/1.1" 200 3052 0.003540
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:06:14] "GET /style.css HTTP/1.1" 200 428 0.001535
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:06:14] "GET /eel.js HTTP/1.1" 200 6082 0.000460
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:06:15] "GET /favicon.ico HTTP/1.1" 404 877 0.016295
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:21:49] "GET /index.html HTTP/1.1" 200 3057 0.003148
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:21:49] "GET /css/style.css HTTP/1.1" 404 879 0.006346
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:21:49] "GET /eel.js HTTP/1.1" 200 6082 0.000464
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:21:50] "GET /favicon.ico HTTP/1.1" 404 877 0.002857
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:24:47] "GET /index.html HTTP/1.1" 200 3115 0.002234
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:24:47] "GET /Users/toguchitaichi/Desktop/study-05-pos-system-Improvement/css/style.css HTTP/1.1" 404 939 0.008977
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:24:47] "GET /eel.js HTTP/1.1" 200 6082 0.000941
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:24:48] "GET /favicon.ico HTTP/1.1" 404 877 0.000644
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:26:12] "GET /index.html HTTP/1.1" 200 3052 0.002866
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:26:12] "GET /style.css HTTP/1.1" 200 428 0.002228
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:26:12] "GET /eel.js HTTP/1.1" 200 6082 0.000501
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:26:12] "GET /favicon.ico HTTP/1.1" 404 877 0.076008
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:29:09] "GET /index.html HTTP/1.1" 200 3053 0.003671
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:29:09] "GET /style.css HTTP/1.1" 200 428 0.000717
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:29:09] "GET /eel.js HTTP/1.1" 200 6082 0.000544
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:29:09] "GET /favicon.ico HTTP/1.1" 404 877 0.005963
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:30:23] "GET /index.html HTTP/1.1" 200 3053 0.002729
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:30:23] "GET /style.css HTTP/1.1" 404 875 0.010678
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:30:23] "GET /eel.js HTTP/1.1" 200 6082 0.000517
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:30:24] "GET /favicon.ico HTTP/1.1" 404 877 0.000808
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:30:46] "GET /index.html HTTP/1.1" 200 3052 0.002392
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:30:46] "GET /style.css HTTP/1.1" 404 875 0.008308
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:30:46] "GET /eel.js HTTP/1.1" 200 6082 0.001270
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:30:46] "GET /favicon.ico HTTP/1.1" 404 877 0.000991
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:31:15] "GET /index.html HTTP/1.1" 200 3056 0.002662
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:31:15] "GET /css/style.css HTTP/1.1" 404 879 0.007273
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:31:15] "GET /eel.js HTTP/1.1" 200 6082 0.000668
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:31:16] "GET /favicon.ico HTTP/1.1" 404 877 0.000606
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:32:24] "GET /index.html HTTP/1.1" 200 3054 0.002483
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:32:24] "GET /css/style.css HTTP/1.1" 404 879 0.007360
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:32:24] "GET /eel.js HTTP/1.1" 200 6082 0.000931
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:32:24] "GET /favicon.ico HTTP/1.1" 404 877 0.000853
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:33:49] "GET /index.html HTTP/1.1" 200 3056 0.002853
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:33:49] "GET /css/style.css HTTP/1.1" 404 879 0.006352
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:33:49] "GET /eel.js HTTP/1.1" 200 6082 0.000486
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:33:50] "GET /favicon.ico HTTP/1.1" 404 877 0.000636
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:35:00] "GET /index.html HTTP/1.1" 200 3057 0.003633
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:35:00] "GET /css/style.css HTTP/1.1" 404 879 0.007294
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:35:00] "GET /eel.js HTTP/1.1" 200 6082 0.000525
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:35:00] "GET /favicon.ico HTTP/1.1" 404 877 0.000545
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:36:59] "GET /index.html HTTP/1.1" 200 3060 0.003030
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:36:59] "GET /css/style.css HTTP/1.1" 404 879 0.006352
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:36:59] "GET /eel.js HTTP/1.1" 200 6082 0.000478
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:37:00] "GET /favicon.ico HTTP/1.1" 404 877 0.009093
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:40:40] "GET /index.html HTTP/1.1" 200 3050 0.002497
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:40:40] "GET /style.css HTTP/1.1" 404 875 0.007839
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:40:40] "GET /eel.js HTTP/1.1" 200 6082 0.000789
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:40:41] "GET /favicon.ico HTTP/1.1" 404 877 0.000870
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:42:26] "GET /index.html HTTP/1.1" 200 3054 0.002559
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:42:26] "GET /css/style.css HTTP/1.1" 404 879 0.006103
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:42:26] "GET /eel.js HTTP/1.1" 200 6082 0.000478
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:42:26] "GET /favicon.ico HTTP/1.1" 404 877 0.000940
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:42:49] "GET /index.html HTTP/1.1" 200 3055 0.003266
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:42:49] "GET /.css/style.css HTTP/1.1" 404 880 0.008085
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:42:49] "GET /eel.js HTTP/1.1" 200 6082 0.000503
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:42:50] "GET /favicon.ico HTTP/1.1" 404 877 0.000630
+INFO:root:マスタをオーダーに登録しました
+INFO:root:デスクトップを起動します
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:46:53] "GET /index.html HTTP/1.1" 200 3057 0.007073
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:46:53] "GET /css/style.css HTTP/1.1" 404 879 0.006306
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:46:53] "GET /eel.js HTTP/1.1" 200 6082 0.000580
+INFO:geventwebsocket.handler:127.0.0.1 - - [2020-12-03 13:46:53] "GET /favicon.ico HTTP/1.1" 404 877 0.000615
