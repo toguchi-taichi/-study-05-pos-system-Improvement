@@ -1,0 +1,12 @@
+#item_code, #quantity_input, #amount_custody {
+    width: 250px;
+    margin: 10px 0px;
+}
+
+#return_product_information, #return_total_fee, #return_change {
+    margin-left: 20px;
+}
+
+.form-group {
+    margin-left: 20px;
+}
